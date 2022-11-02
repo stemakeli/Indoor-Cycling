@@ -1,2 +1,2 @@
 # Indoor-Cycling
-A site dedicated to indoor ctycling
+A site dedicated to indoor cycling
